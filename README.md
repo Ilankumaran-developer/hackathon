@@ -1,4 +1,4 @@
-# con_de_nast_frontend
+# Hackathon frontend
 
 A repo for Hackathon
 
